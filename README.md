@@ -1,6 +1,9 @@
 # Pizza Sales Dashboard
 
 This project showcases an interactive Power BI dashboard analyzing pizza sales data. It highlights core business KPIs, monthly trends, and performance by product category and size.
+---
+## Dashboard Link
+https://app.powerbi.com/view?r=eyJrIjoiZWQ3NjY2MjctMGM5My00ODRlLWFjNWItYWIyMTFjYzdjNGYzIiwidCI6ImQ5OTRjYjA2LTljOTYtNGUxMC05YTQ2LTg4ZGM1OTEyNjc0ZCIsImMiOjZ9
 
 ---
 ## Key Features
